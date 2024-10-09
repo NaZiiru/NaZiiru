@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Computer Sc.Engineer | Java Spring Boot | FullStack JS Developer | Junior DevOps with a passion for building efficient and scalable applications. I have a strong foundation in both front-end and back-end technologies, allowing me to create seamless user experiences while ensuring robust server-side functionality.
+👋 Hi there! I'm a Computer Sc.Engineer | Java Spring Boot | FullStack JS Developer | Junior DevOps with a passion for building efficient and scalable applications. I have a strong foundation in both front-end and back-end technologies, allowing me to create seamless user experiences while ensuring robust server-side functionality.
 
 
 ## 🌐 Socials:
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NaZiiru&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
