@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Full-Stack Developer and Computer Science Engineer with a passion for building efficient and scalable applications. I have a strong foundation in both front-end and back-end technologies, allowing me to create seamless user experiences while ensuring robust server-side functionality.
+👋 Hi there! Computer Sc.Engineer | FullStack Developper with a passion for building efficient and scalable applications. I have a strong foundation in both front-end and back-end technologies, allowing me to create seamless user experiences while ensuring robust server-side functionality.
 
 
 ## 🌐 Socials:
